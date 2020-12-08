@@ -8,4 +8,6 @@ Built in led of the ESP32 will turn on when tcp connection made. If communicatio
 
 This programmer should work with ADAU1701. But not tested.
 
+You may need to use the latest SigmaStudio beta.
+
 Reference: https://github.com/MCUdude/SigmaDSP
