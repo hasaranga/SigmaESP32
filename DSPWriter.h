@@ -36,7 +36,7 @@ typedef enum
     SafeloadData4 = 0x0814,
     SafeloadAddress0 = 0x0815,
     SafeloadAddress1 = 0x0816,
-    SafeloadAddress2 = 0x0816,
+    SafeloadAddress2 = 0x0817,
     SafeloadAddress3 = 0x0818,
     SafeloadAddress4 = 0x0819,
     DataCapture0 = 0x081A,
